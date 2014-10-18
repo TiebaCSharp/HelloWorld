@@ -1,0 +1,27 @@
+git init
+git fetch
+git remote add origin
+git checkout --track origin/XX
+git push origin XX
+git remote -v
+git push -u origin master
+git branch XX 新建分支
+git stash
+
+git config user.name Tony
+git config user.email tony@yunio.com
+git rm -r --cached Pickup/.DS_Store
+
+ git reset --hard HEAD
+
+
+git pull origin master
+
+git push -u origin master
+
+
+mkdir /path/to/your/project
+cd /path/to/your/project
+git init
+git remote add origin git@bitbucket.org:TTJiang/fdfad.git
+

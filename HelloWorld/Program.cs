@@ -12,6 +12,11 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World, again!");
+        string Input = Console.ReadLine();
+            if (Input==("hi"))
+            {
+                Console.WriteLine("hi there");
+            }
         }
     }
 }
